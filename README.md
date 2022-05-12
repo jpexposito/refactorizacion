@@ -42,5 +42,7 @@ Los métodos aplicados en la refactorización son tan variados como los errores 
 
   </div>
 
+## Referencias
+- [Refactorización](https://cysingsoft.wordpress.com/un-ejercicio-de-refactorizacion/)
 
 </div>
