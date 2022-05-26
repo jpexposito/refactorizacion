@@ -10,6 +10,7 @@
     <modules>
         <module>fecha</module>
         <module>lista</module>
+        <module>primo</module>
     </modules>
 
     <name>Proyectos de refactorizacion-test</name>
