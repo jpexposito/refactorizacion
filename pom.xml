@@ -11,6 +11,7 @@
         <module>fecha</module>
         <module>lista</module>
         <module>primo</module>
+        <module>maximo-comun</module>
     </modules>
 
     <name>Proyectos de refactorizacion-test</name>
