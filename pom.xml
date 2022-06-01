@@ -12,6 +12,7 @@
         <module>lista</module>
         <module>primo</module>
         <module>maximo-comun</module>
+        <module>banco</module>
     </modules>
 
     <name>Proyectos de refactorizacion-test</name>
